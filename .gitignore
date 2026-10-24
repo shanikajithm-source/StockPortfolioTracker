@@ -1,0 +1,19 @@
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment and secret files
+.env
+.env.*
+
+# Editor settings
+.vscode/
+
+# Practice files
+validation_test.py
+stock_price_test.py
